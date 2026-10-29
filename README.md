@@ -1,4 +1,3 @@
-
 # Electrical Grid Reliability Analyzer
 
 A Python-based project that analyzes simulated electrical outage data to evaluate the reliability of an electrical distribution system.
@@ -72,6 +71,14 @@ Using the included fictional dataset containing 12 outage events and 10,000 cust
 | SAIFI | 0.3190 interruptions/customer |
 | SAIDI | 34.12 minutes/customer |
 | CAIDI | 106.97 minutes/interruption |
+
+## Visualizations
+
+### Monthly Outage Impact
+![Monthly outage impact](output/monthly_impact.png)
+
+### Outage Impact by Cause
+![Outage impact by cause](output/cause_impact.png)
 
 ## Limitations
 
