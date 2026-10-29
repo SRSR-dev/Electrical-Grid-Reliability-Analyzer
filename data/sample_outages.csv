@@ -1,0 +1,13 @@
+event_id,date,neighborhood,cause,duration_minutes,customers_affected
+E001,2025-01-14,Zone A,Equipment failure,65,220
+E002,2025-02-02,Zone B,Weather,125,450
+E003,2025-03-09,Zone C,Vegetation,40,130
+E004,2025-04-22,Zone A,Equipment failure,90,275
+E005,2025-05-17,Zone B,Unknown,35,95
+E006,2025-06-12,Zone C,Weather,110,380
+E007,2025-07-05,Zone A,Equipment failure,50,160
+E008,2025-08-18,Zone B,Weather,180,510
+E009,2025-09-21,Zone C,Vegetation,70,190
+E010,2025-10-06,Zone A,Equipment failure,85,240
+E011,2025-11-16,Zone B,Unknown,45,120
+E012,2025-12-03,Zone C,Weather,135,420

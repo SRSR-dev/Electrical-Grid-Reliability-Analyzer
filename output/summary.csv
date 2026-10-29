@@ -1,0 +1,8 @@
+metric,value
+events,12
+customers_served,10000
+customer_interruptions,3190
+customer_interruption_minutes,341225.0
+saifi,0.319
+saidi_minutes,34.1225
+caidi_minutes,106.96708463949844
